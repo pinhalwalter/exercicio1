@@ -1,9 +1,9 @@
-import Placar from './componentes/placar';
+import Placar from './componentes/placar2.jsx';
 
 function App() {
   return (
     <div className="App">
-      <Placar/>
+      <Placar />
     </div>
   );
 }
